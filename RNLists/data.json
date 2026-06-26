@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Lionel Messi",
+    "team": "Inter Miami",
+    "position": "Forward",
+    "nationality": "Argentina",
+    "jerseyNumber": 10,
+    "rating": 93
+  },
+  {
+    "id": "2",
+    "name": "Cristiano Ronaldo",
+    "team": "Al Nassr",
+    "position": "Forward",
+    "nationality": "Portugal",
+    "jerseyNumber": 7,
+    "rating": 91
+  },
+  {
+    "id": "3",
+    "name": "Kylian Mbappé",
+    "team": "Real Madrid",
+    "position": "Forward",
+    "nationality": "France",
+    "jerseyNumber": 9,
+    "rating": 92
+  },
+  {
+    "id": "4",
+    "name": "Erling Haaland",
+    "team": "Manchester City",
+    "position": "Striker",
+    "nationality": "Norway",
+    "jerseyNumber": 9,
+    "rating": 91
+  },
+  {
+    "id": "5",
+    "name": "Mohamed Salah",
+    "team": "Liverpool",
+    "position": "Forward",
+    "nationality": "Egypt",
+    "jerseyNumber": 11,
+    "rating": 90
+  },
+  {
+    "id": "6",
+    "name": "Victor Osimhen",
+    "team": "Galatasaray",
+    "position": "Striker",
+    "nationality": "Nigeria",
+    "jerseyNumber": 45,
+    "rating": 88
+  },
+  {
+    "id": "7",
+    "name": "Jude Bellingham",
+    "team": "Real Madrid",
+    "position": "Midfielder",
+    "nationality": "England",
+    "jerseyNumber": 5,
+    "rating": 90
+  },
+  {
+    "id": "8",
+    "name": "Vinícius Júnior",
+    "team": "Real Madrid",
+    "position": "Winger",
+    "nationality": "Brazil",
+    "jerseyNumber": 7,
+    "rating": 90
+  },
+  {
+    "id": "9",
+    "name": "Kevin De Bruyne",
+    "team": "Manchester City",
+    "position": "Midfielder",
+    "nationality": "Belgium",
+    "jerseyNumber": 17,
+    "rating": 91
+  },
+  {
+    "id": "10",
+    "name": "Harry Kane",
+    "team": "Bayern Munich",
+    "position": "Striker",
+    "nationality": "England",
+    "jerseyNumber": 9,
+    "rating": 90
+  }
+]
